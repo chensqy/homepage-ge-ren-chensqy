@@ -17,3 +17,5 @@ game.html样式：
 ![image](https://github.com/user-attachments/assets/43b3212a-afa6-439f-b946-cbb9bfae507f)
 
 演示网站网址：fz.sqymc.com
+
+Copyright Chenlexuan 2025 &copy
